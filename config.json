@@ -1,0 +1,12 @@
+{
+    "processes": [
+      {
+        "name": "External Events",
+        "parameters": ["param7", "param3"]
+      },
+      {
+        "name": "Periodic Events",
+        "parameters": ["param3", "param4"]
+      }
+    ]
+  }
